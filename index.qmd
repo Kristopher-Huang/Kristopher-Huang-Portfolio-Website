@@ -1,0 +1,41 @@
+---
+title: "Hello, my name is Kristopher Huang"
+image: myphoto.jpg
+body-classes: index
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+---
+
+# About Me
+
+I am a highly curious, hard-working, eager-to-learn, and willing-to-help person. I like to learn about topics that interest me and do my share of work, possibly more, so that others have to do less. My favorite activities include reading, exercising, researching whatever topic that interests me, gaming, gardening, and watching wrestling.
+
+I am interested in the field of marketing, specifically General Marketing, because it's a versatile field and the ways that the marketing field works interests me. In the future, I am looking to get into a field of marketing that involves brand research, marketing toward demographics, or marketing involving seasonal, collaborative, and limited-time events, as these aspects are ones I'm most interested in.
+
+Currently, as of writing this on April 26, 2026, I am a senior at Cal Poly Pomona enrolled in the College of Business Administration as a student in International Business and Marketing. I am expecting to complete my degree in General Marketing in the Fall of 2026 and graduate in the Spring of 2027.
+
+***
+
+# My Goals
+
+My current goals in life include:
+
+-   Finding a good-paying and fulfilling job in the Marketing field.
+
+-   Learn as much as I can about topics that I'm interested in.
+
+-   Become better at cooking.
+
+-   Explore my surroundings and learn about local businesses, wildlife, and plants.
+
+-   Try many different kinds of foods from different countries and cultures.
+
+-   Be a useful and helpful person whenever I can.
+
+***
+
+# Connect With Me
+
+If you would like to connect with me, you can contact me at my Gmail, kristopherlxhuang\@gmail.com, or connect with my [LinkedIn](https://www.linkedin.com/in/kris-huang-646245387/).

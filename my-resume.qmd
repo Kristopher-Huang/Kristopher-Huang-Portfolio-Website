@@ -1,0 +1,43 @@
+---
+title: "My Résumé"
+body-classes: my-resume
+---
+
+The full PDF of my resume can be viewed [here](resume.pdf).
+
+# Experience
+
+**From December 2018 to January 2019**
+
+> Worked as a Seasonal Stocker at Dollar Tree.
+
+-   Received, unpacked, and organized merchandise on shelves and in storage areas to maintain store inventory.
+-   Assisted in inventory counts and restocked products to ensure availability for customers.
+-   Maintained a clean and orderly stockroom and sales floor, following safety and company guidelines.
+-   Supported store team with seasonal displays and product rotation to optimize sales and presentation.
+
+**From September 2025 to Present**
+
+> Participated in Employment Means Success as a Vocational Trainee.
+
+-   Participating in weekly vocational services.
+-   Updating interviewing skills: mock interviews, questions and answers and follow up.
+-   Updating customer service skills, learning current job search skills along with training on how to complete a handwritten and online job application.
+-   Skills on how to follow up on active job leads and with employers after completing applications and leaving current resumes for open positions.
+
+# Education
+
+<caption>[**Chaffey College**]{style="font-size: 24px;"}</caption>
+
+| Certificate | Image |
+|------------------------------------|------------------------------------|
+| Associate in Arts: Business and Technology | ![](images/clipboard-2453200898.jpeg){width="1294"} |
+| Associate in Science: Computer Information Systems | ![](images/clipboard-1403865348.jpeg){width="1294"} |
+| Associate in Science: Cyber Security Professional | ![](images/clipboard-1669019868.jpeg){width="1294"} |
+
+# Technical Skills
+
+-   Possesses a basic knowledge of the R programming language and the ability to utilize RStudio.
+-   Able to analyze collected data utilizing tools such as the R programming language in Rstudio by creating tables and charts.
+-   Able to use Microsoft Word, Excel, and Powerpoint as well as their Google counterparts, Doc, Sheets, and Slides, on an intermediate level.
+-   Possesses a basic understanding of the functions of GitHub.
