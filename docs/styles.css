@@ -1,0 +1,52 @@
+/* css styles */
+
+/* Index page modification. Static left column, scrolling right column. */
+.about-entity {
+  position: sticky;
+  top: 20px;
+  height: fit-content;
+}
+
+@media (max-width: 768px) {
+  .about-entity {
+    position: static;
+  }
+}
+
+/* Title size and color change */
+h1.title {
+  font-size: 2.5rem;
+  color: #BFB749;
+}
+
+/* h1 color change */
+h1 {
+  color: #949494;
+}
+
+
+/* Webpage background color */
+body {
+  background-color: #CEF0E8;
+}
+
+/* Navbar color */
+.navbar {
+  background-color: #5FCEB4 !important;
+  border-color: #5FCEB4;
+}
+
+/* Navigation link text color */
+.navbar-default .navbar-nav > li > a {
+  color: #000000 !important;
+}
+
+.navbar-default .navbar-brand {
+  color: #000000 !important;
+}
+
+blockquote {
+  color: #000000; /* Change this to your preferred dark color (e.g., black) */
+  border-left: 5px solid #cccccc; /* Optional: adds a visible side border */
+  background-color: #f9f9f9; /* Optional: adds a light background for contrast */
+}

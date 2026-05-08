@@ -6,5 +6,4 @@
 /.quarto/
 /.Rproj.user/
 /.Rhistory
-/_site/
 **/*.quarto_ipynb
